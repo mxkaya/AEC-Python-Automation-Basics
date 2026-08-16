@@ -21,3 +21,21 @@ Right now that mostly means getting comfortable with Python, the command line, a
 - [ ] Exporting Revit schedules and reading them with `pandas`
 
 This is more of a compass than a fixed schedule — I'll check items off as I actually get to them, not before.
+
+## Planned structure
+
+AEC-Python-Automation-Basics/
+│
+├── 01_Basic_Scripts/
+│ ├── distance_calculator.py # 2D/3D distance between points, vector length
+│ └── area_volume_calc.py # Basic geometric area/volume calculations
+│
+├── 02_Engineering_OOP/
+│ ├── cross_section.py # Class for section area & moment of inertia
+│ └── rebar_weight_calc.py # Rebar weight from diameter & length
+│
+├── 03_BIM_Data_Extraction/
+│ └── schedule_parser.py # Parsing Revit CSV schedules with pandas
+│
+└── README.md
+
