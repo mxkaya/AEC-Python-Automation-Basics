@@ -24,8 +24,6 @@ This is more of a compass than a fixed schedule — I'll check items off as I ac
 
 ## Planned structure
 
-## Planned structure
-
 ```
 AEC-Python-Automation-Basics/
 │
@@ -42,4 +40,29 @@ AEC-Python-Automation-Basics/
 │
 └── README.md
 ```
+
+Folders and scripts get added as I actually write them, not created empty ahead of time.
+
+## How I'll document scripts
+
+Once a script is added, I'll keep the write-up short and honest:
+
+1. **Problem** — what it's actually solving
+2. **Approach** — the logic or math behind it
+3. **Sample output** — proof it runs, not just that it exists
+
+## Stack
+
+- **Language:** Python 3.x
+- **Tools:** VS Code, Git
+- **Coming later:** AutoCAD, Revit, pandas
+
+## Why this is public
+
+Mostly so I have an honest log of the process instead of a cleaned-up highlight reel. If something here is rough or wrong, it's probably because I'm a first-year student still figuring it out — feedback is always welcome.
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/muhammetyusufkaya](https://linkedin.com/in/muhammetyusufkaya)
+- GitHub: [@mxkaya](https://github.com/mxkaya)
 
