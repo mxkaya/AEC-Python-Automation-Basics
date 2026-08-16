@@ -21,5 +21,3 @@ Right now that mostly means getting comfortable with Python, the command line, a
 - [ ] Exporting Revit schedules and reading them with `pandas`
 
 This is more of a compass than a fixed schedule — I'll check items off as I actually get to them, not before.
-
-## Planned structure
